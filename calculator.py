@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 16 11:54:30 2017
 
-@author: Barbara
+@author: Barbara F.
 """
 
 #The program asks the user to enter a separate numeric operator and two numeric values.  Depending upon the operator, the corresponding arithmetic operation is performed. The program lets you know if you entered an invalid operator, that is one other than +, -, %, , /, //, * 
